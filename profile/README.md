@@ -15,5 +15,5 @@
 ### We are a group of young creative programmers, designers and ... who do crazy things and are proud of it 
 
 # Do you want to join ?
-### If you like to join us you must have a [Discord](https://discord.com) account and fill this [form](https://forms.gle/hfFDiCdvXtf1uPKV6)
+### If you like to join us you must have a [Discord](https://discord.com) account and fill this [form](https://join.devevil-team.xyz/)
 **If you don't know anything, it doesn't matter, we will train you and make you a professional**
