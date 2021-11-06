@@ -3,6 +3,11 @@
 
 ## At DevEvil we have no leader, we are free to do whatever we want, but together we are like family and teamwork is our key to progress.
 
+## Links 
+- [**Website**](https://devevil-team.xyz/)
+- [**Discord**](https://dsc.gg/devevil)
+- [**Donate From Iran**](https://idpay.ir/devevil-team)
+
 # Some of our projects
 - [**DevEvilBot.xyz - Discord Multipurpose Bot**](https://devevilbot.xyz)
 - [**DevEvilBot Music - Discord Music Bot**](https://devevilbot.xyz/music)
