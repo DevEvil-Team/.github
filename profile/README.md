@@ -12,6 +12,7 @@
 # Some of our projects
 - [**DevEvilBot.xyz - Discord Multipurpose Bot**](https://devevilbot.xyz)
 - [**DevEvilBot Music - Discord Music Bot**](https://devevilbot.xyz/music)
+- [**DevEvilBot Music - Discord Music Bot**](https://devevilbot.xyz/music2)
 - [**DevEvilBot Anti Raid - Discord Security Bot**](https://devevilbot.xyz/anti-raid)
 - [**iCord - Discord Multipurpose and Music Bot**](https://devevilbot.xyz/icord)
 - [**Dark+ - Discord Theme**](https://betterdiscord.app/theme/Dark%2B)
